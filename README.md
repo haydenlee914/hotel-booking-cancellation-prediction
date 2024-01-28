@@ -2,14 +2,14 @@
 
 * Project : Hotel Booking Dataset - Machine Learning for Business Impact
 * Project duration : 2023.09.15 - 2023.10.06
-* Contributors : Yaeeun Lee, Anne Lim, Valerie Chan
+* Contributors : Yaeeun Lee, Anne Lim, Silvia Lee, Valerie Chan
 * Presentation Deck: [Download](https://github.com/haydenlee914/hotel-booking-cancellation-prediction/issues/1#issue-2104342522)
 
 
 Key Business Objectives
 -------------
-Predict whether customer will cancel the reservation or not after reservation but before checking in
-Leverage data with most optimal model by focusing towards highest cost (FP) and loyal customers (TN)
+1. Predict whether customer will cancel the reservation or not after reservation but before checking in
+2. Leverage data with most optimal model by focusing towards highest cost (FP) and loyal customers (TN)
 
 
 Evaluation
