@@ -3,7 +3,7 @@
 * Project : Hotel Booking Dataset - Machine Learning for Business Impact
 * Project duration : 2023.09.15 - 2023.10.06
 * Contributors : Yaeeun Lee, Anne Lim, Valerie Chan
-* Presentation Deck: [Download](file:///C:/Users/heyri/OneDrive/Desktop/Hotel%20Cancellation%20Predictor%20Presentation%20Deck.pdf)
+* Presentation Deck: [Download](https://github.com/haydenlee914/hotel-booking-cancellation-prediction/issues/1#issue-2104342522)
 
 Key Business Objectives
 -------------
