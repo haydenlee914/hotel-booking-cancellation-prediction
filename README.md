@@ -5,10 +5,12 @@
 * Contributors : Yaeeun Lee, Anne Lim, Valerie Chan
 * Presentation Deck: [Download](https://github.com/haydenlee914/hotel-booking-cancellation-prediction/issues/1#issue-2104342522)
 
+
 Key Business Objectives
 -------------
 Predict whether customer will cancel the reservation or not after reservation but before checking in
 Leverage data with most optimal model by focusing towards highest cost (FP) and loyal customers (TN)
+
 
 Evaluation
 -------------
